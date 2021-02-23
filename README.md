@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+[Meu linkedin](https://www.linkedin.com/in/isaias-gon%C3%A7alves-igs/)
+
+
 <!--
 **IsaBass/IsaBass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
