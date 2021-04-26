@@ -20,6 +20,11 @@ Este github armazena alguns dos meus trabalhos e projetos de cursos.
 - projeto da 5ª NLW , trilha Flutter
 - SetState, ValueNotifier, AnimationBuilder, share_plus
 
+#### [Conversor de Moedas](https://github.com/IsaBass/conversor_moedas) 
+- Conversor entre Real, Dólar e Euro. Consome API externa.
+- Dio
+- Http
+
 #### [Calculadora IMC](https://github.com/IsaBass/calcIMC)
 - projeto inicial de aprendizado
 - SetState
