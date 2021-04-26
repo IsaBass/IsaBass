@@ -13,14 +13,12 @@ Este github armazena alguns dos meus trabalhos e projetos de cursos.
 ###### _Alguns projetos podem não ser totalmente funcionais devido ao sigilo de credenciais de acesso ao banco de dados._
 
 
-
-<br>
-<br>
+<hr>
 
 ## Meus Projetos Flutter:
 #### [DevQuiz #NLW5 RocketSeat](https://github.com/IsaBass/nlw5_devquiz)
 - projeto da 5ª NLW , trilha Flutter
-- SetState, ValueNotifier, AnimationBuilder, shared_plus
+- SetState, ValueNotifier, AnimationBuilder, share_plus
 
 #### [Calculadora IMC](https://github.com/IsaBass/calcIMC)
 - projeto inicial de aprendizado
