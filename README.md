@@ -10,7 +10,7 @@
 
 Este github armazena alguns dos meus trabalhos e projetos de cursos.
 ###### _Projetos Delphi são privados por razões de segurança._
-###### _Alguns projetos podem não ser totalmente funcionais devido ao sigilo de credenciais de acesso ao banco de dados, caso necessário._
+###### _Alguns projetos podem não ser totalmente funcionais devido ao sigilo de credenciais de acesso ao banco de dados._
 
 
 
