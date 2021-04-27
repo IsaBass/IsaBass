@@ -20,6 +20,11 @@ Este github armazena alguns dos meus trabalhos e projetos de cursos.
 - projeto da 5ª NLW , trilha Flutter
 - SetState, ValueNotifier, AnimationBuilder, share_plus
 
+#### [Buscador de gifs](https://github.com/IsaBass/buscador_gifs) 
+- share
+- http
+- transparent_image
+
 #### [To-Do-Offline](https://github.com/IsaBass/todo_offline) 
 - path_provider
 - json
