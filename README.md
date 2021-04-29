@@ -20,6 +20,14 @@ Este github armazena alguns dos meus trabalhos e projetos de cursos.
 - projeto da 5ª NLW , trilha Flutter
 - SetState, ValueNotifier, AnimationBuilder, share_plus
 
+
+
+#### [Chat OnLine Firebase](https://github.com/IsaBass/chat_firebase) 
+- Utiliza BD Firebase Firestore
+- Firebase Storage para imagens
+- Login Google
+- Câmera do Telefone.
+
 #### [Agenda de Contatos](https://github.com/IsaBass/agenda_contatos) 
 - base SQL local SQLite
 - Acesso à camera do aparelho
