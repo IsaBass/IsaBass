@@ -20,6 +20,11 @@ Este github armazena alguns dos meus trabalhos e projetos de cursos.
 - projeto da 5ª NLW , trilha Flutter
 - SetState, ValueNotifier, AnimationBuilder, share_plus
 
+#### [Agenda de Contatos](https://github.com/IsaBass/agenda_contatos) 
+- base SQL local SQLite
+- Acesso à camera do aparelho
+- Ligação Telefonica
+
 #### [Buscador de gifs](https://github.com/IsaBass/buscador_gifs) 
 - share
 - http
