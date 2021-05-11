@@ -21,6 +21,11 @@ Este github armazena alguns dos meus trabalhos e projetos de cursos.
 - SetState, ValueNotifier, AnimationBuilder, share_plus
 
 
+#### [LOJA Virtual Mobx Firebase](https://github.com/IsaBass/cursolojavirtual_mobx) 
+- Utiliza BD Firebase Firestore
+- Mobx
+- GetIt
+- Login Firebase
 
 #### [Chat OnLine Firebase](https://github.com/IsaBass/chat_firebase) 
 - Utiliza BD Firebase Firestore
