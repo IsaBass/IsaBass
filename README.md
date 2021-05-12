@@ -21,6 +21,10 @@ Este github armazena alguns dos meus trabalhos e projetos de cursos.
 - SetState, ValueNotifier, AnimationBuilder, share_plus
 
 
+#### [Integração Android Nativo](https://github.com/IsaBass/floatingchannelandroid) 
+- Botão flutuante usando package nativo Java no Android
+- MethodChannel
+
 #### [LOJA Virtual Mobx Firebase](https://github.com/IsaBass/cursolojavirtual_mobx) 
 - Utiliza BD Firebase Firestore
 - Mobx
