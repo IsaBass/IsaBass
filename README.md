@@ -21,6 +21,13 @@ Este github armazena alguns dos meus trabalhos e projetos de cursos.
 - SetState, ValueNotifier, AnimationBuilder, share_plus
 
 
+
+#### [App Favoritos do Youtube (BLoC)](https://github.com/IsaBass/youtube_favorites) 
+- Player de youtube com lista de vídeos
+- Utiliza API publica do Youtube para listagem de videos e sugestões em digitação
+- Utiliza bloc_pattern como gerenciador de estado
+- Armazenamento local de lista de favoritos
+
 #### [Integração Android Nativo](https://github.com/IsaBass/floatingchannelandroid) 
 - Botão flutuante usando package nativo Java no Android
 - MethodChannel
