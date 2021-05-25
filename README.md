@@ -22,7 +22,7 @@ Este github armazena alguns dos meus trabalhos e projetos de cursos.
 
 
 
-#### [MeuPedido - LojaVirtual (Modular - Mobx)](https://github.com/IsaBass/meupedido_all) 
+### [MeuPedido - LojaVirtual (Modular - Mobx)](https://github.com/IsaBass/meupedido_all) 
 - Loja virtual Modular - Mobx com múltiplos recuros
 
 #### [App Favoritos do Youtube (BLoC)](https://github.com/IsaBass/youtube_favorites) 
