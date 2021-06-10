@@ -25,6 +25,11 @@ Este github armazena alguns dos meus trabalhos e projetos de cursos.
 ### [MeuPedido - LojaVirtual (Modular - Mobx)](https://github.com/IsaBass/meupedido_all) 
 - Loja virtual Modular - Mobx com múltiplos recuros
 
+
+#### Apps Curso de Responsividade
+- [Responsive Page](https://github.com/IsaBass/responsive_page)
+- [Responsive Insta](https://github.com/IsaBass/responsive_insta)
+
 #### [App Favoritos do Youtube (BLoC)](https://github.com/IsaBass/youtube_favorites) 
 - Player de youtube com lista de vídeos
 - Utiliza API publica do Youtube para listagem de videos e sugestões em digitação
